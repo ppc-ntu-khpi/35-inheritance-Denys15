@@ -4,8 +4,8 @@ import domain.Cat;
 
 public class TestAnimal {
 
-    public static void main(String[] args) {
-        Cat cat = new Cat("Thomas");
+    public void main(String[] args) {
+        Cat cat = new Cat("Andrew");
         System.out.println(cat);
         cat.hunt();
         cat.eat();
