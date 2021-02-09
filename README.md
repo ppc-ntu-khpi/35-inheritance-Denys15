@@ -1,6 +1,7 @@
 # Практична робота "Реалізація успадкування"
 Змоделював найкращого домашнього улюбленця - собаку.
 
+<img src="https://github.com/ppc-ntu-khpi/35-inheritance-Denys15/blob/master/img/maxresdefault.jpg"/>
 # Animals 
 
 <img src="https://github.com/ppc-ntu-khpi/35-inheritance-Denys15/blob/master/img/Animals.png"/>
