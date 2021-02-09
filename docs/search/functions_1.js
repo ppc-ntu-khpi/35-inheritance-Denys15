@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cat_39',['Cat',['../classdomain_1_1_cat.html#a9b5284f7e670de8a9dcdc17714e17b9d',1,'domain.Cat.Cat(String name, int weight, String kind)'],['../classdomain_1_1_cat.html#aae134d3623728f20817a0827d977a873',1,'domain.Cat.Cat()'],['../classdomain_1_1_cat.html#a77e04ce1b95d00c631bbd3380ac83394',1,'domain.Cat.Cat(String name)']]]
+  ['dog_29',['Dog',['../classdomain_1_1_dog.html#abc419e00cd999bae7a5c76bd08e46ba4',1,'domain.Dog.Dog(String name, int weight, String kind)'],['../classdomain_1_1_dog.html#ad1c8964368cb6ccdaf60087654fb3b80',1,'domain.Dog.Dog()'],['../classdomain_1_1_dog.html#a86e0ae3e5dd069fc009fae036ce3d4c6',1,'domain.Dog.Dog(String name)']]]
 ];
